@@ -12,7 +12,7 @@ First, install dependencies:
 
 ```bash
 npm install
-
+```
 Configure the api port in our case i used 4000
 NEXT_PUBLIC_API_URL=http://localhost:4000
 
