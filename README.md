@@ -4,6 +4,10 @@ This is the **frontend** of the Todo App, built with **Next.js (App Router)** an
 
 ## 🚀 Getting Started
 
+<img width="1600" height="820" alt="image" src="https://github.com/user-attachments/assets/dc9e41ee-da0d-4121-a9c4-d7c3e9f6d944" />
+<img width="1600" height="832" alt="image" src="https://github.com/user-attachments/assets/36af61cf-885d-4068-b862-4b5023bf6fb7" />
+
+
 First, install dependencies:
 
 ```bash
@@ -15,6 +19,4 @@ NEXT_PUBLIC_API_URL=http://localhost:4000
 Run the development server:
 npm run dev
 
-<img width="1600" height="820" alt="image" src="https://github.com/user-attachments/assets/dc9e41ee-da0d-4121-a9c4-d7c3e9f6d944" />
-<img width="1600" height="832" alt="image" src="https://github.com/user-attachments/assets/36af61cf-885d-4068-b862-4b5023bf6fb7" />
 
