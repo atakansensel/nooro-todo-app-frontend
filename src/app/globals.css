@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+/* :root {
+  --bg: 255 255 255;
+  --fg: 17 24 39;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* html, body, #__next { height: 100%; }
+body { color: rgb(var(--fg)); background: rgb(var(--bg)); } */
+
+/* .container { @apply max-w-2xl mx-auto px-4; }
+.btn { @apply inline-flex items-center justify-center rounded-xl px-4 py-2 text-sm font-medium shadow-sm transition active:scale-95; }
+.btn-primary { @apply bg-black text-white hover:bg-gray-800; }
+.btn-ghost { @apply hover:bg-gray-100; }
+.card { @apply rounded-2xl shadow-sm border border-gray-200; }
+.badge { @apply rounded-full px-2.5 py-0.5 text-xs font-medium border; } */ 
